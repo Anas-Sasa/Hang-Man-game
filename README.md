@@ -1,2 +1,6 @@
-# Hang-Man-game
-A procedural programming exercise built to practice core Python skills. Focus on: List operations, "If statement" &amp; Join and slicing methods
+### Hangman is a word-guessing game: 
+
+> - The player tries to guess a hidden word by suggesting letters.
+> - For each incorrect guess, a part of a drawing is added.
+> - The game is won if the word is guessed before the drawing is complete.
+> - The game is lost if the drawing is completed.
