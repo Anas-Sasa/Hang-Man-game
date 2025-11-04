@@ -1,4 +1,6 @@
-### Hangman is a word-guessing game: 
+# Hang-Man-game
+
+Hangman is a word-guessing game: 
 
 > - The player tries to guess a hidden word by suggesting letters.
 > - For each incorrect guess, a part of a drawing is added.
